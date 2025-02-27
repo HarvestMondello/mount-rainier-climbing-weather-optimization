@@ -6,7 +6,7 @@
 ![Executive Summary](https://github.com/HarvestMondello/Mount-Rainier-Climbing-Weather-Optimization/blob/main/assets/Mount%20Rainier%20Statistical%20Analysis_2.jpg)
 
 ## Structured Approach of the Analysis and Solution
-![Structured Approach of the Analysis and Solution](https://github.com/HarvestMondello/Mount-Rainier-Climbing-Weather-Optimization/blob/main/assets/Mount%20Rainier%20Statistical%20Analysis_23.jpg)
+![Structured Approach of the Analysis and Solution](https://github.com/HarvestMondello/Mount-Rainier-Climbing-Weather-Optimization/blob/main/assets/Mount%20Rainier%20Statistical%20Analysis_3.jpg)
 
 ## Statistical Analysis
 ![Statistical Analysis](https://github.com/HarvestMondello/Mount-Rainier-Climbing-Weather-Optimization/blob/main/assets/Mount%20Rainier%20Statistical%20Analysis_4.jpg)
@@ -31,6 +31,8 @@
 
 ## About the Project
 ![About the Project](https://github.com/HarvestMondello/Mount-Rainier-Climbing-Weather-Optimization/blob/main/assets/Mount%20Rainier%20Statistical%20Analysis_11.jpg)
+
+This project was originally completed in Tableau Public and you can see my work here: ![About the Project](https://public.tableau.com/app/profile/harvest.mondello/viz/MountRainierStatisticalAnalysis/0CoverPage)
 
 
 
