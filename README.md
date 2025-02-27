@@ -4,7 +4,6 @@
 
 This project was originally completed in Tableau Public and you can see my work here: 
 <a href="[https://github.com/CompanyABC/repo1/pull/8](https://public.tableau.com/app/profile/harvest.mondello/viz/MountRainierStatisticalAnalysis/0CoverPage)">Harvest Mondello's Tableau Public</a>
-https://public.tableau.com/app/profile/harvest.mondello/viz/MountRainierStatisticalAnalysis/0CoverPage
 
 
 ## Cover Page
