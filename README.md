@@ -1,4 +1,10 @@
 # Mount Rainier Climbing Weather Optimization in Tableau
+
+## Introduction
+
+This project was originally completed in Tableau Public and you can see my work here: ![Harvest Mondello's Tableau Public](https://public.tableau.com/app/profile/harvest.mondello/viz/MountRainierStatisticalAnalysis/0CoverPage)
+
+
 ## Cover Page
 ![Cover Page](https://github.com/HarvestMondello/Mount-Rainier-Climbing-Weather-Optimization/blob/main/assets/Mount%20Rainier%20Statistical%20Analysis_1.jpg)
 
@@ -31,7 +37,6 @@
 
 ## About the Project
 ![About the Project](https://github.com/HarvestMondello/Mount-Rainier-Climbing-Weather-Optimization/blob/main/assets/Mount%20Rainier%20Statistical%20Analysis_11.jpg)
-This project was originally completed in Tableau Public and you can see my work here: ![Harvest Mondello's Tableau Public](https://public.tableau.com/app/profile/harvest.mondello/viz/MountRainierStatisticalAnalysis/0CoverPage)
 
 
 
