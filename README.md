@@ -17,14 +17,14 @@ This project was originally completed in Tableau Public and you can see my work 
 ## Statistical Analysis
 ![Statistical Analysis](https://github.com/HarvestMondello/Mount-Rainier-Climbing-Weather-Optimization/blob/main/assets/Mount%20Rainier%20Statistical%20Analysis_4.jpg)
 
-## Monthly Weather and Climbing Stats
+## Monthly Weather and Climbing Statsistics
 ![Monthly Weather and Climbing Stats](https://github.com/HarvestMondello/Mount-Rainier-Climbing-Weather-Optimization/blob/main/assets/Mount%20Rainier%20Statistical%20Analysis_5.jpg)
 
-## Weakly Weather and Climbing Stats
+## Weakly Weather and Climbing Statsistics
 ![Weakly Weather and Climbing Stats](https://github.com/HarvestMondello/Mount-Rainier-Climbing-Weather-Optimization/blob/main/assets/Mount%20Rainier%20Statistical%20Analysis_6.jpg)
 
-## Single Variable Regression Analysis
-![Single Variable Regression Analysis](https://github.com/HarvestMondello/Mount-Rainier-Climbing-Weather-Optimization/blob/main/assets/Mount%20Rainier%20Statistical%20Analysis_7.jpg)
+## Single Variable Regression Analysis of Climbing to Weather Variables
+![Single Variable Regression Analysis of Climbing to Weather Variabless](https://github.com/HarvestMondello/Mount-Rainier-Climbing-Weather-Optimization/blob/main/assets/Mount%20Rainier%20Statistical%20Analysis_7.jpg)
 
 ## Annual Success Rates and Profitable Routes
 ![Annual Success Rates and Profitable Routes](https://github.com/HarvestMondello/Mount-Rainier-Climbing-Weather-Optimization/blob/main/assets/Mount%20Rainier%20Statistical%20Analysis_8.jpg)
