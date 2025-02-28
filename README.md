@@ -40,5 +40,5 @@ This project was originally completed in Tableau Public and you can see my work 
 ![Conclusion & Recommendation](https://github.com/HarvestMondello/Mount-Rainier-Climbing-Weather-Optimization/blob/main/assets/mount-rainier-analysis-10.png)
 
 ## About the Project
-![About the Project](https://github.com/HarvestMondello/Mount-Rainier-Climbing-Weather-Optimization/blob/main/assets/mount-rainier-analysis-11.jpng)
+![About the Project](https://github.com/HarvestMondello/Mount-Rainier-Climbing-Weather-Optimization/blob/main/assets/mount-rainier-analysis-11.png)
 
