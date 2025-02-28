@@ -5,8 +5,6 @@
 This project was originally completed in Tableau Public and you can see my work here: 
 <a href="https://public.tableau.com/app/profile/harvest.mondello/viz/MountRainierStatisticalAnalysis/0CoverPage"> Harvest Mondello's Tableau Public</a>
 
-<img align="right" width="100" src="https://github.com/HarvestMondello/Mount-Rainier-Climbing-Weather-Optimization/blob/main/assets/mount-rainier-analysis-1.jpg" alt="Cover Page"/>
-
 ## Cover Page
 ![Cover Page](https://github.com/HarvestMondello/Mount-Rainier-Climbing-Weather-Optimization/blob/main/assets/mount-rainier-analysis-1.png)
 
@@ -41,4 +39,7 @@ This project was originally completed in Tableau Public and you can see my work 
 
 ## About the Project
 ![About the Project](https://github.com/HarvestMondello/Mount-Rainier-Climbing-Weather-Optimization/blob/main/assets/mount-rainier-analysis-11.png)
+
+
+
 
