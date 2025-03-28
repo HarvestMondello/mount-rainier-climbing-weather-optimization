@@ -1,6 +1,6 @@
 # Mount Rainier Climbing Weather Optimization in Tableau
 
-#Synopsis
+# Synopsis
 **Problem**: Optimize climbing schedules for success rates and revenue. 
 
 **Solution**: Developed regression analysis model in Tableau using climbing and weather data
