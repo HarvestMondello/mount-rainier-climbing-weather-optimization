@@ -25,7 +25,8 @@ This project was originally completed in Tableau Public and you can see my work 
 - [License](#license)
 
 # Tools I Used
-**Google Sheets**: For cleaning the NOAA and Mount Rainier datasets including the use of pivot tables.
+**Excel**: For cleaning the NOAA and Mount Rainier datasets including the use of pivot tables.
+
 **Tableau**: For data analysis, linear regresion and data visualization.
 
 
