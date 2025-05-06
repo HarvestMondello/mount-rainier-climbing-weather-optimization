@@ -19,17 +19,21 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 ---
 
-## 🔸 Visuals, Dashboards, and Documentation (Creative Commons)
-
-All non-code content in this repository — including but not limited to screenshots, data visuals, written documentation, and Markdown files — is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/).
+## 🔸 Visuals, Photos, and Documentation (Creative Commons)
+All non-code content in this repository — including but not limited to screenshots, data visuals, photographs, written documentation, and Markdown files — is © Harvest Mondello and licensed under the
+Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0).
 
 You are free to:
-- **Share** — copy and redistribute the material in any medium or format
-- **Adapt** — remix, transform, and build upon the material
 
-**Under the following terms:**
-- **Attribution** — You must give appropriate credit and indicate if changes were made.
-- **NonCommercial** — You may not use the material for commercial purposes.
+Share — copy and redistribute the material in any medium or format
+
+Adapt — remix, transform, and build upon the material
+
+Under the following terms:
+
+Attribution — You must give appropriate credit to Harvest Mondello, provide a link to the license, and indicate if changes were made.
+
+NonCommercial — You may not use the material for commercial purposes.
 
 ---
 
