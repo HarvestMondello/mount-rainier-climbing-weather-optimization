@@ -14,6 +14,21 @@
 This project was originally completed in Tableau Public and you can see my work here: 
 <a href="https://public.tableau.com/app/profile/harvest.mondello/viz/MountRainierStatisticalAnalysis/0CoverPage"> Harvest Mondello's Tableau Public</a>
 
+## Table of Contents
+
+- [Synopsis](#synopsis)
+- [Introduction](#introduction)
+- [Tools I Used](#tools-i-used)
+- [The Analysis](#cover-page)
+- [Conclusion & Recommendation](#conclusion--recommendation)
+- [About the Project](#about-the-project)
+- [License](#license)
+
+# Tools I Used
+**Google Sheets**: For cleaning the NOAA and Mount Rainier datasets including the use of pivot tables.
+**Tableau**: For data analysis, linear regresion and data visualization.
+
+
 # Cover Page
 ![Cover Page](https://github.com/HarvestMondello/Mount-Rainier-Climbing-Weather-Optimization/blob/main/assets/mount-rainier-analysis-1.png)
 
@@ -48,8 +63,6 @@ This project was originally completed in Tableau Public and you can see my work 
 
 # About the Project
 ![About the Project](https://github.com/HarvestMondello/Mount-Rainier-Climbing-Weather-Optimization/blob/main/assets/mount-rainier-analysis-11.png)
-
-
 
 ### License
 
